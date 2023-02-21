@@ -12,5 +12,3 @@ I used inheritance properties, with 𝙂𝙚𝙤𝙢𝙚𝙩𝙧𝙞𝙘𝙁𝙞
 
 <br><br>
 Run the programs and you will see what it displays! Thanks :)
-
-
