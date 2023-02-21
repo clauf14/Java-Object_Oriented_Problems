@@ -8,7 +8,10 @@ I also created "students" file, from where the information about the students is
 I also created a method that calculates the age of the person with the help of the CNP, automatically, using 𝙨𝙪𝙗𝙨𝙩𝙧𝙞𝙣𝙜. <br><br>
 
 𝟐. For project named 𝐠𝐞𝐨𝐦𝐞𝐭𝐫𝐢𝐜-𝐟𝐢𝐠𝐮𝐫𝐞_𝐢𝐧𝐡𝐞𝐫𝐢𝐭𝐚𝐧𝐜𝐞 : https://github.com/clauf14/Java-Object_Oriented_Problems/tree/main/geometric-figure_inheritance <br>
-I used inheritance properties, with 𝙂𝙚𝙤𝙢𝙚𝙩𝙧𝙞𝙘𝙁𝙞𝙜𝙪𝙧𝙚 class being the superclass, and 𝘾𝙞𝙧𝙘𝙡𝙚 and 𝙍𝙚𝙘𝙩𝙖𝙣𝙜𝙡𝙚 being the subclasses. This program calculates the 𝙖𝙧𝙚𝙖 and the 𝙥𝙚𝙧𝙞𝙢𝙚𝙩𝙚𝙧 of Circle and Rectangle. It counts if the object is 𝙧𝙚𝙙 and the 𝙞𝙣𝙨𝙩𝙖𝙣𝙘𝙚 𝙤𝙛 the object. Finally, the program 𝙨𝙤𝙧𝙩𝙨 the objects by 𝙖𝙧𝙚𝙖.
+I used inheritance properties, with 𝙂𝙚𝙤𝙢𝙚𝙩𝙧𝙞𝙘𝙁𝙞𝙜𝙪𝙧𝙚 class being the superclass, and 𝘾𝙞𝙧𝙘𝙡𝙚 and 𝙍𝙚𝙘𝙩𝙖𝙣𝙜𝙡𝙚 being the subclasses. This program calculates the 𝙖𝙧𝙚𝙖 and the 𝙥𝙚𝙧𝙞𝙢𝙚𝙩𝙚𝙧 of Circle and Rectangle. It counts if the object is 𝙧𝙚𝙙 and the 𝙞𝙣𝙨𝙩𝙖𝙣𝙘𝙚 𝙤𝙛 the object. Finally, the program 𝙨𝙤𝙧𝙩𝙨 the objects by 𝙖𝙧𝙚𝙖.<br><br>
+
+𝟑. For project named 𝐏𝐞𝐫𝐬𝐨𝐧 : https://github.com/clauf14/Java-Object_Oriented_Problems/tree/main/Person <br>
+Here I just practiced 𝑶𝑶𝑷 properties, how to create an 𝙖𝙧𝙧𝙖𝙮 and different types of 𝙘𝙤𝙣𝙨𝙩𝙧𝙪𝙘𝙩𝙤𝙧𝙨.
 
 <br><br>
 Run the programs and you will see what it displays! Thanks :)
